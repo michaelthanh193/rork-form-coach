@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "FormCoach",
+      "path": "ios-formcoach",
+      "framework": "swift",
+      "settings": {
+        "swiftSibling": false
+      }
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
